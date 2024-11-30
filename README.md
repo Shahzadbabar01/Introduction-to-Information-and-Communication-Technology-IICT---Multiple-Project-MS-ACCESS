@@ -1,0 +1,2 @@
+# Introduction to Information and Communication Technology(IICT) -Multiple Project-MS ACCESS
+ MS Access Projects in IICT This repository contains MS Access projects developed as part of my IICT studies. The projects demonstrate database design, form creation, query building, report generation, and automation using MS Access tools. Each project serves as a practical example of creating efficient database solutions.
